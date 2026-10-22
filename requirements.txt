@@ -1,6 +1,0 @@
-streamlit
-scikit-learn
-pypdf
-python-docx
-anthropic
-openai
