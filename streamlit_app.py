@@ -129,7 +129,7 @@ def call_llm(provider, api_key, model, base_url, system, messages, temperature):
 # ----------------------------------------------------------------------------
 # Interface
 # ----------------------------------------------------------------------------
-st.title("🔎 Demo: LLM com RAG")
+st.title("🔎 AI Retrieval Lab")
 st.caption("Define o contexto, carrega documentos e vê como o modelo responde com base neles.")
 
 if "history" not in st.session_state:
