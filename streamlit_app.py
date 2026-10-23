@@ -18,7 +18,7 @@ import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-st.set_page_config(page_title="Demo RAG com LLM", page_icon="🔎", layout="wide")
+st.set_page_config(page_title="AI Retrieval Lab", page_icon="🔎", layout="wide")
 
 DEFAULT_SYSTEM = (
     "És um assistente de apoio a alunos. Responde em português de Portugal, "
